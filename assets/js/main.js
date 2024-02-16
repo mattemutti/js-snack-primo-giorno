@@ -25,3 +25,5 @@ Stampa il valore della variabile circle in console.
 
 
 const radius = 8;
+const circle = radius * 2 * PI;
+console.log(circle);
