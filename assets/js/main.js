@@ -40,5 +40,3 @@ console.log(circle);
 let name = `Carlo` //string
 name = `Marco`//string
 console.log(name);
-
-
