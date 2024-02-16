@@ -12,7 +12,7 @@ console.log(PI);
 
 // Ex2/B Prova ad assegnare alla costante chiamata PI il valore di 3.1416. Sai dire cosa succede?
 
-// La console darà errore perchè una volta dichiarata non posso cambiare il valore di una const. In quel caso dovrei dichiarare una variabile let
+// La console darà errore perchè una volta dichiarata, non posso cambiare il valore di una variabile const. In quel caso dovrei dichiarare una variabile let
 
 
 
